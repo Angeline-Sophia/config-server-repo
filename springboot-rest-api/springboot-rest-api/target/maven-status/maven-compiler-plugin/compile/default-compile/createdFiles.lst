@@ -1,0 +1,5 @@
+net\javaguides\springbootrestapi\controller\HelloWorldController.class
+net\javaguides\springbootrestapi\controller\StudentController.class
+net\javaguides\springbootrestapi\SpringbootRestApiApplication.class
+net\javaguides\springbootrestapi\entity\User.class
+net\javaguides\springbootrestapi\bean\Student.class
